@@ -18,6 +18,7 @@ After installing the node modules we need to run the project so that the graph i
 For that we need to write the following command in the terminal:
 
 ~ cd graphs
+
 ~ npm start
 
 This commmand is used to run the project and the graph would be visible.
